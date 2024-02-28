@@ -11,8 +11,8 @@
  
 
 ## The Results
-
-
+ 
+ Below are the screenshots of the code after I tinkered with the code and learned how to put images from the last blog.
 ### The origanal code
 ![Screenshot 2024-02-28 2 41 40 PM](https://github.com/fatjond0413/sep10-freedom-project/assets/146867501/597b97b5-9d5d-4db3-8aeb-6b57e9d85694)
 
