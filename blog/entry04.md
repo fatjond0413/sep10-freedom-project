@@ -7,7 +7,7 @@
 
 ## Testing it
 
- I decided to first changes tehe sizes of the shapes to se how much options they are and how large and small are the shapes, Then I decided to go to the website to find if they are anymore shapes but then just decided to just stick with what I got. Then I decided to start deleting lines or parts on lines to see what each line or part of a line means, the just decided to scrool on the website again to see if I missed something. Also reserched and see if they are anymore shapes and I got a ring.
+ I decided to first changes tehe sizes of the shapes to se how much options they are and how large and small are the shapes, Then I decided to go to the website to find if they are anymore shapes but then just decided to just stick with what I got. Then I decided to start deleting lines or parts on lines to see what each line or part of a line means, the just decided to scrool on the website again to see if I missed something. [Also reserched and see if they are anymore shapes and I got a ring.](https://aframe.io/docs/1.5.0/components/geometry.html)
  
 
 ## The Results
