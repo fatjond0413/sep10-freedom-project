@@ -1,7 +1,9 @@
 # Entry 6
-##### X/X/XX
+##### 5/3/24
 
-Text
+## Creating my FP
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
