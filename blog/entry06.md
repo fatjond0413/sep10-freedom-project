@@ -1,7 +1,7 @@
 # Entry 6
 ##### 5/3/24
 
-## 
+## The making of my freedom-project website
 
 
 
