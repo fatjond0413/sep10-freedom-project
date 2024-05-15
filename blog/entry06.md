@@ -12,7 +12,7 @@
 
 ## Reflecting on my MVP and what to do better for my Beyond MVP
 
- This project truly made me realize on what skills I need to improve on like how to google or look  up stuff as if I did know how to do that I would had made a better MVP. I also needed to have a stronger memeory and learn more on how to do things like this insted of waiting until the last second to finish things incomplete or not as good as it should be. I also need to make some changes to the MVP itself like organizing it better and not having it stack on top of eachother. But I belive I did do got on some skills like problem decompoisition and embracing the fact that I have alot to improve in in both myself and my MVP.
+ This project truly made me realize on what [skills](https://hstatsep.github.io/students/#skills) I need to improve on like how to google or look  up stuff as if I did know how to do that I would had made a better MVP. I also needed to have a stronger memeory and learn more on how to do things like this insted of waiting until the last second to finish things incomplete or not as good as it should be. I also need to make some changes to the MVP itself like organizing it better and not having it stack on top of eachother. But I belive I did do got on some skills like problem decompoisition and embracing the fact that I have alot to improve in in both myself and my MVP.
  
 [Previous](entry05.md) | [Next](entry07.md)
 
