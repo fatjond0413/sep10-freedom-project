@@ -25,7 +25,7 @@ Making this website my main problem was procrastination and not having a plan. T
 
 [Product](https://verbose-guide-jj565g7695g627gx-8080.app.github.dev/index.html)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1epqQkdjQ9ub_16uFdowYa6ukauMJm0tPs-bMLJAm5uM/edit#slide=id.p)
 
 ## Implications
 ##### PROS
