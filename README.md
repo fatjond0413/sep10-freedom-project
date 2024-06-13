@@ -12,6 +12,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study the
 
  My product I have decided to made is three products and they are all in my website which is linked below. One is a device that can predict cancer cells, causing people to have more of a fighting chance against them. My second product are pills that fight addictions. My third product is a bed that alows nurses to move overweight patients without as much backpain. 
 
+## Challanges of this and my takeaways
+
+Making this website my main problem was procrastination and not having a plan
 ## Links
 
 [Product]()
