@@ -29,9 +29,9 @@ Making this website my main problem was procrastination and not having a plan. T
 
 ## Implications
 ##### PROS
-* 
+* It will help people
 ##### CONS
-* 
+* IT will cost a decent amount of money
 
 
 ## Blog
