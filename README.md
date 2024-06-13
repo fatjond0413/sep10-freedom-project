@@ -14,10 +14,16 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study the
 
 ## Challanges of this and my takeaways
 
-Making this website my main problem was procrastination and not having a plan
+Making this website my main problem was procrastination and not having a plan. These things were what really made making ym product the most challanging. Upon looking at my final website I was abit dissapointed knowing I could do better, but still very proud.To try and not have something like this for a next big project I will take the summer to learn how to fight procrastination and try making a plan in the next time I make a product.
+
+## Image of product code
+
+![Screenshot 2024-06-13 2 42 42 PM](https://github.com/fatjond0413/sep10-freedom-project/assets/146867501/438b21a4-4449-4473-b916-2865aeb0942a)
+
+
 ## Links
 
-[Product]()
+[Product](https://verbose-guide-jj565g7695g627gx-8080.app.github.dev/index.html)
 
 [Presentation]()
 
