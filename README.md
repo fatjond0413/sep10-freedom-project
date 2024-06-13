@@ -8,6 +8,10 @@ For my project, I chose the topic of the medical field.
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study the medical field in order to help me make by website.
 
+## Content
+
+ My product I have decided to made is three products and they are all in my website which is linked below. One is a device that can predict cancer cells, causing people to have more of a fighting chance against them. My second product are pills that fight addictions. My third product is a bed that alows nurses to move overweight patients without as much backpain. 
+
 ## Links
 
 [Product]()
